@@ -44,5 +44,3 @@ Libraries:
   - TFT_eSPI https://github.com/Bodmer/TFT_eSPI
   - Arduino MIDI https://github.com/FortySevenEffects/arduino_midi_library
   - Mozzi https://github.com/sensorium/Mozzi
-
-NOTE: RTTI must be enabled for this to work
