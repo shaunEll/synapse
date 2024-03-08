@@ -7,7 +7,7 @@
 #include "SynthCoreObject.h"
 
 //FILTERS
-#include <LowPassFilter.h>
+//#include <LowPassFilter.h>
 #include <ResonantFilter.h>
 #include <StateVariable.h>
 

@@ -1,5 +1,5 @@
-#ifndef SynthModifierObject_h
-#define SynthModifierObject_h
+#ifndef SynthUIObject_h
+#define SynthUIObject_h
 
 #include "Arduino.h"
 #include "SynthCoreObject.h"
